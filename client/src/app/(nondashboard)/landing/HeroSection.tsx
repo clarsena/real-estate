@@ -28,7 +28,7 @@ const HeroSection = () => {
                         home.
                     </h1>
                     <p className='text-xl text-white mb-8'>
-                        Explore our wide range of tental properties tailored to
+                        Explore our wide range of rental properties tailored to
                         fit your lifestyle and needs.
                     </p>
                     <div className='flex justify-center'>
