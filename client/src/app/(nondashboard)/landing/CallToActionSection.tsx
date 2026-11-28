@@ -13,7 +13,7 @@ const CallToActionSection = () => {
                 fill
                 className='object-cover object-center'
             />
-            <div className='absolute inset-0 bg-black bg-opacity-60'></div>
+            <div className='absolute inset-0 bg-black bg-opacity-70'></div>
             <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 transition={{ duration: 0.5 }}
